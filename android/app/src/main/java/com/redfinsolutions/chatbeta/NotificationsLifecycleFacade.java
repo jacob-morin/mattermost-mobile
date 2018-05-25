@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.redfinsolutions.chatbeta;
 
 import android.app.Activity;
 import android.content.pm.ActivityInfo;
