@@ -1,4 +1,4 @@
-package com.redfinsolutions.chatbeta;
+package com.mattermost.rnbeta;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

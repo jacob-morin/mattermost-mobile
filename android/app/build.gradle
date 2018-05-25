@@ -108,10 +108,10 @@ android {
     buildToolsVersion "25.0.1"
 
     defaultConfig {
-        applicationId "com.redfinsolutions.chatbeta"
+        applicationId "com.mattermost.rnbeta"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 111
+        versionCode 104
         versionName "1.8.0"
         multiDexEnabled true
         ndk {

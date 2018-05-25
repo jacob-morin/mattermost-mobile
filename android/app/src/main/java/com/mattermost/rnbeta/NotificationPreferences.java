@@ -1,4 +1,4 @@
-package com.redfinsolutions.chatbeta;
+package com.mattermost.rnbeta;
 
 import android.content.Context;
 import android.content.SharedPreferences;
