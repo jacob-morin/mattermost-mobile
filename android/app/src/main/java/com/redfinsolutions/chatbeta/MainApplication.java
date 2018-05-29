@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.redfinsolutions.chatbeta;
 
 import com.mattermost.share.SharePackage;
 import android.app.Application;

@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.redfinsolutions.chatbeta;
 
 import java.util.Arrays;
 import java.util.Collections;

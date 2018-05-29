@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.redfinsolutions.chatbeta;
 
 import android.content.Context;
 import android.content.Intent;
