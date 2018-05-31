@@ -1473,7 +1473,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = UQ8HT4Q2XM;
+						DevelopmentTeam = WS8YKTS9TH;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
@@ -2390,7 +2390,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattermost.rnbeta;
+				PRODUCT_BUNDLE_IDENTIFIER = com.redfinsolutions.chatbeta;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mattermost.app/Mattermost";
 			};
@@ -2423,7 +2423,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattermost.rnbeta;
+				PRODUCT_BUNDLE_IDENTIFIER = com.redfinsolutions.chatbeta;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mattermost.app/Mattermost";
 			};
@@ -2437,9 +2437,10 @@
 				CODE_SIGN_ENTITLEMENTS = Mattermost/Mattermost.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 103;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = UQ8HT4Q2XM;
+				DEVELOPMENT_TEAM = WS8YKTS9TH;
 				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../node_modules/react-native/Libraries/PushNotificationIOS/**",
@@ -2471,7 +2472,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattermost.rnbeta;
+				PRODUCT_BUNDLE_IDENTIFIER = com.redfinsolutions.chatbeta;
 				PRODUCT_NAME = Mattermost;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -2488,9 +2489,10 @@
 				CODE_SIGN_ENTITLEMENTS = Mattermost/Mattermost.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 103;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = UQ8HT4Q2XM;
+				DEVELOPMENT_TEAM = WS8YKTS9TH;
 				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../node_modules/react-native/Libraries/PushNotificationIOS/**",
@@ -2522,7 +2524,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattermost.rnbeta;
+				PRODUCT_BUNDLE_IDENTIFIER = com.redfinsolutions.chatbeta;
 				PRODUCT_NAME = Mattermost;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -2581,7 +2583,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattermost.rnbeta.MattermostShare;
+				PRODUCT_BUNDLE_IDENTIFIER = com.redfinsolutions.chatbeta.MattermostShare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "MattermostShare/MattermostShare-Bridging-Header.h";
@@ -2642,7 +2644,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattermost.rnbeta.MattermostShare;
+				PRODUCT_BUNDLE_IDENTIFIER = com.redfinsolutions.chatbeta.MattermostShare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "MattermostShare/MattermostShare-Bridging-Header.h";
