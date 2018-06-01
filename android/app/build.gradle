@@ -111,7 +111,7 @@ android {
         applicationId "com.redfinsolutions.mattermost"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 108
+        versionCode 109
         versionName "1.8.0"
         multiDexEnabled true
         ndk {
