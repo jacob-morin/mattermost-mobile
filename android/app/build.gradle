@@ -111,7 +111,7 @@ android {
         applicationId "com.redfinsolutions.chatbeta"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 113
+        versionCode 114
         versionName "1.8.0"
         multiDexEnabled true
         ndk {
